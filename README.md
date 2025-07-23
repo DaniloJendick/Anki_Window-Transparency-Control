@@ -52,11 +52,11 @@ The **Anki Window Transparency Control** add-on enables dynamic window transpare
 2. Adjust slider (50-100%)
 3. Position background content
 4. Study with transparent overlay ✨
-
+```
 
 📋 Installation & Usage
 📦 Installation
-
+```
 Open Anki
 Go to Tools → Add-ons → Get Add-ons...
 Enter add-on code: YOUR_ADDON_CODE
@@ -77,7 +77,7 @@ Step 3: Setup Background Content
 
 Step 4: Start Studying
 └── Begin flashcard review with background visible
-
+```
 🔧 Compatibility Matrix
 PlatformQt5Qt6Status🪟 Windows✅✅Fully Supported🍎 macOS✅✅Fully Supported🐧 Linux✅✅Fully Supported
 Anki Versions:
